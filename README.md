@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ChinmaySri22/ChinmaySri22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,9 +55,9 @@ Here are some ideas to get you started:
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  <h4>Top Skills:</h4> 
-  &emsp; Web Development, Figma, Nodejs, Expressjs <br/><br/>
-  &emsp; Machine Learning, Data Science<br/><br/>
-  &emsp; C++, DSA (Data Structures and Algorithms)<br/><br/>
+ ⚡ &emsp; Web Development, Figma, Nodejs, Expressjs <br/><br/>
+ 📫 &emsp; Machine Learning, Data Science<br/><br/>
+ 🔭 &emsp; C++, DSA (Data Structures and Algorithms)<br/><br/>
  📧 &emsp; Reach me anytime: chinmayy10@gmail.com
  
 
@@ -86,7 +84,7 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="left">
-  <a href="https://github.com/ChinmaySri22?tab=repositories" target="_blank"><img alt="Check All My Repositories" title="All Repositories" src="https://img.shields.io/badge/-Check%20All%20My%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white" width="50px"/></a>
+  <a href="https://github.com/ChinmaySri22?tab=repositories" target="_blank"><img alt="Check All My Repositories" title="All Repositories" src="https://img.shields.io/badge/-Check%20All%20My%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white" width="500px"/></a>
 </p>
 
 
